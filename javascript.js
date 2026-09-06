@@ -46,7 +46,7 @@ const productosIniciales = [
         id: 7, 
         nombre: "queque de chocolate", 
         precio: 2, 
-        stock: 50, 
+        stock: 20, 
         imagen: "queque.jpg" // <-- Así llamas a tu foto local
     },
     { 
