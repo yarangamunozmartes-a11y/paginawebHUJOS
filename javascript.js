@@ -3,21 +3,21 @@ const productosIniciales = [
         id: 1, 
         nombre: "Jugo Surtido", 
         precio: 4, 
-        stock: 400, 
+        stock: 40, 
         imagen: "surtido.jpg" // <-- Así llamas a tu foto local
     },
     { 
         id: 2, 
         nombre: "Jugo de Papaya", 
         precio: 5.00, 
-        stock: 400, 
+        stock: 40, 
         imagen: "papaya.jpg" // <-- Así llamas a tu foto local
     },
     { 
         id: 3, 
         nombre: "coco", 
         precio: 3.50, 
-        stock: 100, 
+        stock: 10, 
         imagen: "coco.jpg" // <-- Así llamas a tu foto local
     },
     // Y así sucesivamente con tus 10 productos...
@@ -25,77 +25,77 @@ const productosIniciales = [
         id: 4, 
         nombre: "Jugo de piña", 
         precio: 5, 
-        stock: 400, 
+        stock: 40, 
         imagen: "piña.jpg" // <-- Así llamas a tu foto local
     },
     { 
         id: 5, 
         nombre: "Jugo de platano", 
         precio: 3.00, 
-        stock: 400, 
+        stock: 40, 
         imagen: "platano.jpg" // <-- Así llamas a tu foto local
     },
     { 
         id: 6, 
         nombre: "queque de naranja", 
         precio: 2, 
-        stock: 500, 
+        stock: 50, 
         imagen: "quequedenaranja.jpg" // <-- Así llamas a tu foto local
     },
         { 
         id: 7, 
         nombre: "queque de chocolate", 
         precio: 2, 
-        stock: 500, 
+        stock: 50, 
         imagen: "queque.jpg" // <-- Así llamas a tu foto local
     },
     { 
         id: 8, 
         nombre: "queque de vainilla", 
         precio: 2.00, 
-        stock: 50000, 
+        stock: 50, 
         imagen: "vainilla.jpg" // <-- Así llamas a tu foto local
     },
     { 
         id: 9, 
         nombre: "jugo de naranja pequeña", 
         precio: 1.50, 
-        stock: 100, 
+        stock: 10, 
         imagen: "naranja.jpg" // <-- Así llamas a tu foto local
     },
         { 
         id: 10, 
         nombre: "jugo de naranja grande", 
         precio: 5, 
-        stock: 100, 
+        stock: 10, 
         imagen: "naranja.jpg" // <-- Así llamas a tu foto local
     },
     { 
         id: 11, 
         nombre: "Jugo de Papaya", 
         precio: 5.00, 
-        stock: 400, 
+        stock: 40, 
         imagen: "papaya.jpg" // <-- Así llamas a tu foto local
     },
     { 
         id: 12, 
         nombre: "jugo de mango", 
         precio: 7, 
-        stock: 400, 
+        stock: 40, 
         imagen: "mangoo.jpg" // <-- Así llamas a tu foto local
     },
     { 
         id: 13, 
         nombre: "jugo de fresa", 
         precio: 7, 
-        stock: 400, 
+        stock: 40, 
         imagen: "fresa.jpg" // <-- Así llamas a tu foto local
     },
     { 
         id: 14, 
         nombre: "jugo especial", 
         precio: 10, 
-        stock: 400, 
+        stock: 40, 
         imagen: "especial.jpg" // <-- Así llamas a tu foto local
     }
     // Y así sucesivamente con tus 10 productos...
