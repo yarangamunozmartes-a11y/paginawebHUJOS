@@ -1,5 +1,5 @@
 let carrito = [];
-const PASSWORD_ADMIN = "10052006"; // Contraseña de tu panel
+const PASSWORD_ADMIN = "10052006";
 
 function mostrarProductos() {
     const contenedor = document.getElementById("contenedor-productos");
@@ -27,7 +27,7 @@ function mostrarProductos() {
 }
 
 function solicitarAccesoAdmin() {
-    let clave = prompt("Ingresa la contraseña de administrador:");
+    let clave = prompt("Contraseña:");
     let panel = document.getElementById("panel-admin");
 
     if (clave === PASSWORD_ADMIN) {
