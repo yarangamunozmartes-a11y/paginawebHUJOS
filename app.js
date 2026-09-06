@@ -1,5 +1,5 @@
 let carrito = [];
-const PASSWORD_ADMIN = "1234"; // Contraseña de tu panel
+const PASSWORD_ADMIN = "10052006"; // Contraseña de tu panel
 
 function mostrarProductos() {
     const contenedor = document.getElementById("contenedor-productos");
